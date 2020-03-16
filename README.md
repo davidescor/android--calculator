@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="http://davidespier.com/img/alexa/buscaturitmo.png">
+  <img width="50" height="50" src="http://davidespier.com/img/android/logo.png">
+</p>
+<p align="center">
+  <img width="250" height="420" src="http://davidespier.com/img/android/show_img1.PNG">
 </p>
 
-# android-calculator
+## android-calculator
 
 With the Calculator you can do simple mathematical operations.
 
