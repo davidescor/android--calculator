@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="520" src="http://davidespier.com/img/android/logo.png">
+  <img width="250" height="2550" src="http://davidespier.com/img/android/logo.png">
 </p>
 
 
