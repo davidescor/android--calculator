@@ -1,0 +1,230 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentTop="true"
+    android:background="#2d3033"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/guide"
+        android:layout_width="match_parent"
+        android:layout_height="121dp"
+        android:textAlignment="textEnd"
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/view_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/gridLayout"
+        android:height="100dp"
+        android:background="@null"
+        android:textAlignment="textEnd"
+        android:textColor="#FFF"
+        android:textSize="52sp"
+        tools:text=" " />
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:columnCount="4">
+
+        <Button
+            android:id="@+id/borrar"
+            android:layout_width="176dp"
+            android:layout_columnSpan="2"
+            android:background="#444"
+            android:fontFamily="sans-serif"
+            android:onClick="clear"
+            android:padding="35dp"
+            android:text="@string/_clean"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+
+        <Button
+            android:id="@+id/porcentaje"
+            android:background="#232323"
+            android:fontFamily="sans-serif"
+            android:onClick="porcentaje"
+            android:padding="35dp"
+            android:text="@string/_porce"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/dividir"
+            android:layout_width="98dp"
+            android:background="#232323"
+            android:fontFamily="sans-serif"
+            android:onClick="division"
+            android:padding="35dp"
+            android:text="@string/_dividir"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+
+        <Button
+            android:id="@+id/siete"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt7"
+            android:padding="35dp"
+            android:text="@string/_siete"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/ocho"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt8"
+            android:padding="35dp"
+            android:text="@string/_ocho"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/nueve"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt9"
+            android:padding="35dp"
+            android:text="@string/_nueve"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/multiplicar"
+            android:layout_width="98dp"
+            android:background="#232323"
+            android:fontFamily="sans-serif"
+            android:onClick="multiplicacion"
+            android:padding="35dp"
+            android:text="x"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/cuatro"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt4"
+            android:padding="35dp"
+            android:text="@string/_cuatro"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/cinco"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt5"
+            android:padding="35dp"
+            android:text="@string/_cinco"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/seis"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt6"
+            android:padding="35dp"
+            android:text="@string/_seis"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/resta"
+            android:layout_width="98dp"
+            android:background="#232323"
+            android:fontFamily="sans-serif"
+            android:onClick="resta"
+            android:padding="35dp"
+            android:text="@string/_resta"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/uno"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt1"
+            android:padding="35dp"
+            android:text="@string/_uno"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/dos"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt2"
+            android:padding="35dp"
+            android:text="@string/_dos"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/tres"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt3"
+            android:padding="35dp"
+            android:text="@string/_tres"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/suma"
+            android:layout_width="98dp"
+            android:background="#232323"
+            android:fontFamily="sans-serif"
+            android:onClick="suma"
+            android:padding="35dp"
+            android:text="@string/_suma"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/cero"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="bt0"
+            android:padding="35dp"
+            android:text="@string/_cero"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/coma"
+            android:background="#333"
+            android:fontFamily="sans-serif"
+            android:onClick="btpunt"
+            android:padding="35dp"
+            android:text="@string/_coma"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+
+        <Button
+            android:id="@+id/igual"
+            android:layout_width="186dp"
+            android:layout_columnSpan="2"
+            android:background="#00a0e3"
+            android:onClick="igual"
+            android:padding="35dp"
+            android:text="@string/_igual"
+            android:textColor="#FFF"
+            android:textSize="20sp" />
+
+    </GridLayout>
+
+</RelativeLayout>

@@ -1,0 +1,27 @@
+
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="_view_numbers">0</string>
+    <string name="_fix_number">0</string>
+    <string name="_view_number">0</string>
+    <string name="_del">DEL</string>
+    <string name="_multi">%</string>
+    <string name="_dividir">/</string>
+    <string name="_siete">7</string>
+    <string name="_ocho">8</string>
+    <string name="_nueve">9</string>
+    <string name="_igual">=</string>
+    <string name="_coma">,</string>
+    <string name="_cero">0</string>
+    <string name="_suma">+</string>
+    <string name="_tres">3</string>
+    <string name="_dos">2</string>
+    <string name="_uno">1</string>
+    <string name="_resta">-</string>
+    <string name="_seis">6</string>
+    <string name="_cinco">5</string>
+    <string name="_cuatro">4</string>
+    <string name="_multiplicar">x</string>
+    <string name="_porce">%</string>
+    <string name="_clean">C</string>
+</resources>
