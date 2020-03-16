@@ -3,7 +3,7 @@
 </p>
 
 
-## Android-calculator
+# android-calculator
 
 With the Calculator you can do simple mathematical operations.
 
