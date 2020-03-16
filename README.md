@@ -1,21 +1,15 @@
 <p align="center">
-  <img width="50" height="50" src="http://davidespier.com/img/android/logo.png">
+  <img width="250" height="520" src="http://davidespier.com/img/android/logo.png">
 </p>
-<p align="center">
-  <img width="250" height="420" src="http://davidespier.com/img/android/show_img1.PNG">
-</p>
+
 
 ## android-calculator
 
 With the Calculator you can do simple mathematical operations.
 
-## Requirements
-
-
-
-## Installation
-
-
+<p align="center">
+  <img width="250" height="420" src="http://davidespier.com/img/android/show_img1.PNG">
+</p>
 
 
 ## Website project
