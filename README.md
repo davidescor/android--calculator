@@ -13,7 +13,7 @@ With the Calculator you can do simple mathematical operations.
 
 ## Website project
 
-[https://play.google.com/store/apps/details?id=com.davidespier.calculadora&gl=ES](https://play.google.com/store/apps/details?id=com.davidespier.calculadora&gl=ES)
+[Google play](https://play.google.com/store/apps/details?id=com.davidespier.calculadora&gl=ES)
 
 
 ## Authors
