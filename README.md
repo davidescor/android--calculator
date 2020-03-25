@@ -8,7 +8,7 @@
 With the Calculator you can do simple mathematical operations.
 
 
-<img width="250" height="420" src="http://davidespier.com/img/android/show_img1.PNG">
+<img width="250" height="420" src="http://davidespier.com/img/android/show_img.png">
 
 
 ## Website project
