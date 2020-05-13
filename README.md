@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="http://davidespier.com/github/calc.png">
+  <img width="250" height="250" src="http://davidespier.com/github/calcu-android/calc.png">
 </p>
 
 
@@ -8,7 +8,7 @@
 With the Calculator you can do simple mathematical operations.
 
 
-<img width="250" height="420" src="http://davidespier.com/github/calcu.png">
+<img width="250" height="420" src="http://davidespier.com/github/calcu-android/calcu.png">
 
 
 ## Website project
