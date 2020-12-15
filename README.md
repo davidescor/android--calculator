@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="https://es.gravatar.com/userimage/181350322/641e17b56daf496df6537b890b5cf48d.png?size=250">
+  <img width="250" height="250" src="http://davidespier.com/github/calcu-android/calc.png">
 </p>
 
 
