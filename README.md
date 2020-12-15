@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="https://postimg.cc/nj1gShbr">
+  <img width="250" height="250" src="https://i.postimg.cc/cCqWHvFR/calc.png">
 </p>
 
 
@@ -8,7 +8,7 @@
 With the Calculator you can do simple mathematical operations.
 
 
-<img width="250" height="420" src="https://postimg.cc/gLk5CbmD">
+<img width="250" height="420" src="https://i.postimg.cc/J0bLBRF9/calcu.png">
 
 
 ## Website project
